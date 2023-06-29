@@ -3,6 +3,12 @@ module.exports = {
   content: ["./index.html", "./src/**/*.{js,jsx}"],
   mode: "jit",
   theme: {
+    container: {
+      padding: {
+        DEFAULT: "2rem",
+        lg: "10rem",
+      },
+    },
     extend: {
       colors: {
         primary: "#ffffff",
