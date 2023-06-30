@@ -174,5 +174,5 @@ Credits to;
 [Tailwind-url]: https://tailwindcss.com
 [Vite.js]: https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
 [Vite-url]: https://vitejs.dev
-[Swiper.js]: https://img.shields.io/badge/-swiper-6332F6?style=for-the-badge&logo=vite&logoColor=white
+[Swiper.js]: https://img.shields.io/badge/-swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white
 [Swiper-url]: https://swiperjs.com/react
