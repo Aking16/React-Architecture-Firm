@@ -165,7 +165,7 @@ Credits to;
 [license-shield]: https://img.shields.io/github/license/Aking16/React-Architecture-Firm.svg?style=for-the-badge
 [license-url]: https://github.com/Aking16/React-Architecture-Firm/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/amirhossein-amiri-a9b1b3255/
+[linkedin-url]: https://www.linkedin.com/in/amirhossein-amiri016/
 [website-screenshot]: preview.png
 [React.js]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
 [React-url]: https://reactjs.org/
