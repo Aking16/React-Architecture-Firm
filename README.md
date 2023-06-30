@@ -65,6 +65,7 @@ A template website made with React and tailwind CSS. Created this template in or
 * [![React][React.js]][React-url]
 * [![Vite][Vite.js]][Vite-url]
 * [![Tailwind][Tailwind.css]][Tailwind-url]
+* [![Swiper][Swiper.js]][Swiper-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,3 +174,5 @@ Credits to;
 [Tailwind-url]: https://tailwindcss.com
 [Vite.js]: https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
 [Vite-url]: https://vitejs.dev
+[Swiper.js]: https://img.shields.io/badge/-swiper-6332F6?style=for-the-badge&logo=vite&logoColor=white
+[Swiper-url]: https://swiperjs.com/react
