@@ -1,27 +1,32 @@
 import { Button } from ".";
-import { aboutimg } from "../assets";
+import { ArchitectureImg, ArchitectureImg2 } from "../assets";
 
 const about = () => (
-  <section id="about" className="md:px-[15rem] mt-10">
+  <section id="architecture" className="md:px-[15rem] mt-[10rem]">
     <div className="flex flex-col justify-center xl:flex-row xl:justify-start">
       <p className="font-semibold font-poppins text-[18px] text-center xl:text-start">
-        Our mission
+        Investments
       </p>
       <div className="flex flex-col justify-center xl:justify-start">
         <p className="font-poppins font-bold text-[40px] text-center xl:ms-[10rem] xl:w-[70%] xl:text-start">
-          Our commitment is to ensure the consistent delivery of housing and
-          apartments for our valued clients through development endeavors.
+          From start to finish, our meticulous project management minimizes risk
+          and assures customers' peace of mind. We oversee each step, ensuring
+          successful completion.
         </p>
         <div className="mt-10 flex justify-center items-center xl:ms-[10rem] xl:justify-start">
           <label className="font-poppins font-bold me-5 text-secondary">
-            Get to know us
+            About architecture
           </label>
           <Button />
         </div>
       </div>
     </div>
-    <div className="flex justify-center mt-[10rem] xl:justify-end">
-      <img src={aboutimg} />
+    <div className="flex flex-col justify-center mt-[10rem] xl:flex-row xl:justify-end">
+      <img src={ArchitectureImg} />
+      <img
+        src={ArchitectureImg2}
+        className="mt-10 xl:object-scale-down object-top xl:ms-10 xl:mt-0"
+      />
     </div>
   </section>
 );
