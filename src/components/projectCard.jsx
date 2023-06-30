@@ -8,7 +8,7 @@ const projectCard = ({
   secondaryOptions,
   secondaryOptions2,
 }) => (
-  <div className="flex flex-col font-poppins">
+  <div className="flex flex-col justify-center items-center font-poppins md:justify-start md:items-start">
     <img src={image} />
     <h2 className="font-bold text-[40px] mt-5">{title}</h2>
     <h3 className="font-bold text-[30px]">{subTitle}</h3>
@@ -18,7 +18,7 @@ const projectCard = ({
         {secondaryOptions} <br /> {secondaryOptions2}
       </p>
     </div>
-    <a className="flex flex-row items-center font-poppins font-semibold cursor-pointer mt-10">
+    <a className="flex flex-row items-center font-poppins font-semibold cursor-pointer mt-10 border-b-2 border-black w-[10%]">
       View <img src={arrowRight} />
     </a>
   </div>

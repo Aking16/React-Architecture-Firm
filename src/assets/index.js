@@ -1,6 +1,5 @@
 import close from "./close.svg";
 import menu from "./menu.svg";
-import arrowUp from "./arrow-up.svg";
 import arrowRight from "./arrow-right.svg";
 import heroimg from "./heroimg.png";
 import aboutimg from "./aboutImage.png";
@@ -16,7 +15,6 @@ export {
   close,
   menu,
   heroimg,
-  arrowUp,
   arrowRight,
   aboutimg,
   ApproachImg,

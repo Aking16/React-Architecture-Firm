@@ -48,7 +48,7 @@ export const projectConf = [
     title: "130-540 North Road",
     subTitle: "Reggae",
     primaryOption: "Interior Decor",
-    secondaryOptions: "Medical",
-    secondaryOptions2: "Centre",
+    secondaryOptions: "Pool",
+    secondaryOptions2: "Suites",
   },
 ];

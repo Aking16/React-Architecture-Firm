@@ -12,14 +12,16 @@ import { arrowRight } from "../assets";
 const projects = () => {
   return (
     <section id="projects" className="md:px-[15rem] mt-[10rem]">
-      <div className="flex flex-col justify-center md:flex-row md:justify-between">
-        <p className="font-poppins font-semibold">Current Projects</p>
-        <h2 className="font-poppins font-bold text-[60px]">
+      <div className="flex flex-col justify-center items-center xl:flex-row xl:justify-between xl:items-start">
+        <p className="font-poppins font-semibold text-[15px]">
+          Current Projects
+        </p>
+        <h2 className="font-poppins font-bold text-[60px] text-center xl:text-start">
           Explore some of our <br className="sm:block hidden" /> current
           projects
         </h2>
-        <a className="flex flex-row items-center font-poppins font-semibold cursor-pointer mt-10">
-          View <img src={arrowRight} />
+        <a className="flex flex-row items-start font-poppins font-semibold text-[15px] cursor-pointer border-b-2 border-black h-full mt-5 xl:mt-0">
+          View All <img src={arrowRight} />
         </a>
       </div>
       <Swiper
@@ -32,7 +34,7 @@ const projects = () => {
         className="mySwiper mt-10"
       >
         {projectConf.map((card) => (
-          <SwiperSlide className="w-[600px] mb-10">
+          <SwiperSlide className="w-full mb-10 md:w-[600px]">
             <ProjectCard key={card.id} {...card} />
           </SwiperSlide>
         ))}

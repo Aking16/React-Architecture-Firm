@@ -6,6 +6,7 @@ import Architecture from "./architecture";
 import Approach from "./approach";
 import Projects from "./projects";
 import ProjectCard from "./projectCard";
+import Footer from "./footer";
 
 export {
   Navbar,
@@ -16,4 +17,5 @@ export {
   Approach,
   Projects,
   ProjectCard,
+  Footer,
 };
