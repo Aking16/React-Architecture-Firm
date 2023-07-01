@@ -2,7 +2,6 @@
   "name": "react-architecture-firm",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://Aking16.github.io/React-Architecture-Firm",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
