@@ -52,6 +52,16 @@ const footer = () => {
       </div>
       <div className="flex flex-col justify-center items-center font-poppins text-primary mt-10">
         <p>Copyright &copy; {currentYear} Structura Design Co.</p>
+        <p>
+          Coded by{" "}
+          <a
+            href="https://github.com/Aking16"
+            className="text-blue-400 underline"
+            target="_blank"
+          >
+            Aking16
+          </a>
+        </p>
         <a
           className="hover:text-blue-400 cursor-pointer"
           href="https://docs.github.com/en/site-policy"

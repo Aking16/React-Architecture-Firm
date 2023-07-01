@@ -10,6 +10,7 @@ import ArchitectureImg2 from "./Architecture-Image-2.png";
 import projectCardImg from "./ProjectCardImg.png";
 import projectCardImg2 from "./ProjectCardImg2.png";
 import projectCardImg3 from "./ProjectCardImg3.png";
+import githubIcon from "./github.svg";
 
 export {
   close,
@@ -24,4 +25,5 @@ export {
   projectCardImg,
   projectCardImg2,
   projectCardImg3,
+  githubIcon,
 };

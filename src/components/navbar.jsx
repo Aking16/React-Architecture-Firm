@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { navLinks } from "../constants";
-import { menu, close } from "../assets";
+import { menu, close, githubIcon } from "../assets";
 
 const navbar = () => {
   const [active, setActive] = useState("Home");
@@ -26,7 +26,16 @@ const navbar = () => {
           ))}
         </ul>
 
-        <div className="sm:hidden flex flex-1 justify-end items-center">
+        <a
+          className="flex flex-1 justify-end items-center me-5 text-primary hover:text-blue-400 md:justify-center md:me-0"
+          href="https://github.com/Aking16"
+          target="_blank"
+        >
+          <p className="me-3">Aking16</p>
+          <img src={githubIcon} className="h-[30px] w-[30px]" />
+        </a>
+
+        <div className="sm:hidden flex justify-end items-center">
           <img
             src={toggle ? close : menu}
             alt="menu"
