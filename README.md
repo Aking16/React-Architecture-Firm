@@ -19,9 +19,9 @@
     A template for react with Tailwind CSS!
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://aking16.github.io/React-Architecture-Firm/">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>    
+    <a href="https://github.com/Aking16/React-Architecture-Firm/issues">Report Bug</a>    
   </p>
 </div>
 
@@ -53,7 +53,7 @@
 
 ## About The Project
 
-[![Website Screen Shot][website-screenshot]](https://example.com)
+[![Website Screen Shot][website-screenshot]](https://aking16.github.io/React-Architecture-Firm/)
 
 A template website made with React and tailwind CSS. Created this template in order to practice react personally, but feel free to use it for yourself! 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
