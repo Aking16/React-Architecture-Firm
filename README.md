@@ -125,7 +125,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,8 +163,8 @@ Credits to;
 [stars-url]: https://github.com/Aking16/React-Architecture-Firm/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Aking16/React-Architecture-Firm.svg?style=for-the-badge
 [issues-url]: https://github.com/Aking16/React-Architecture-Firm/issues
-[license-shield]: https://img.shields.io/github/license/Aking16/React-Architecture-Firm.svg?style=for-the-badge
-[license-url]: https://github.com/Aking16/React-Architecture-Firm/blob/master/LICENSE.txt
+[license-shield]:  https://img.shields.io/github/license/Aking16/React-Architecture-Firm.svg?style=for-the-badge
+[license-url]: https://github.com/Aking16/React-Architecture-Firm/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/amirhossein-amiri016/
 [website-screenshot]: preview.png
