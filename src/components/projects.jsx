@@ -31,7 +31,7 @@ const projects = () => {
           clickable: true,
         }}
         modules={[Pagination]}
-        className="mySwiper mt-10"
+        className="mt-10"
       >
         {projectConf.map((card) => (
           <SwiperSlide className="w-full mb-10 md:w-[600px]">

@@ -16,7 +16,7 @@ const navbar = () => {
         <ul className="list-none sm:flex hidden flex-1 justify-end md:justify-start md:ms-[15rem]">
           {navLinks.map((nav) => (
             <li
-              className={` ms-10 cursor-pointer ${
+              className={` ms-10 cursor-pointer font-poppins ${
                 active === nav.title ? "text-blue-400" : "text-primary"
               }`}
               onClick={() => setActive(nav.title)}

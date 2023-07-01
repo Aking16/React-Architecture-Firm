@@ -18,7 +18,7 @@ const projectCard = ({
         {secondaryOptions} <br /> {secondaryOptions2}
       </p>
     </div>
-    <a className="flex flex-row items-center font-poppins font-semibold cursor-pointer mt-10 border-b-2 border-black w-[10%]">
+    <a className="flex flex-row items-center font-poppins font-semibold cursor-pointer mt-10 border-b-2 border-black w-[14%] md:w-[10%]">
       View <img src={arrowRight} />
     </a>
   </div>

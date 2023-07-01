@@ -9,7 +9,7 @@ import {
 } from "./components";
 
 const App = () => (
-  <div className="overflow-hidden">
+  <div className="">
     <Navbar />
     <Hero />
     <About />

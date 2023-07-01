@@ -9,13 +9,13 @@ const hero = () => (
       </h1>
       <div className="flex justify-center md:justify-start">
         <div className="flex flex-col ">
-          <p className="font-poppins font-normal text-[15px] w-[30rem] text-justify text-primary mt-10">
+          <p className="font-poppins font-normal text-[15px] w-full px-2 text-justify text-primary mt-10 md:w-[30rem] md:px-0">
             As an architecture firm based in the vibrant city of London,
             England, Structura Design Co. specializes in facilities across the
             capital, as well as throughout the entire United Kingdom.
           </p>
           <div className="flex md:flex-row flex-col">
-            <p className="font-poppins font-normal text-[15px] w-[30rem] text-justify text-primary mt-3">
+            <p className="font-poppins font-normal text-[15px] w-full px-2 text-justify text-primary mt-3 md:w-[30rem] md:px-0">
               At Structura Design Co., our expertise lies in the realm of
               architectural development, with a special focus on creating
               centers, and social housing projects.

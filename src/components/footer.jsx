@@ -55,6 +55,7 @@ const footer = () => {
         <a
           className="hover:text-blue-400 cursor-pointer"
           href="https://docs.github.com/en/site-policy"
+          target="_blank"
         >
           Privacy Policy
         </a>
