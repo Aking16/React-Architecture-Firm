@@ -9,7 +9,7 @@ import {
 } from "./components";
 
 const App = () => (
-  <div className="">
+  <>
     <Navbar />
     <Hero />
     <About />
@@ -17,7 +17,7 @@ const App = () => (
     <Architecture />
     <Projects />
     <Footer />
-  </div>
+  </>
 );
 
 export default App;
