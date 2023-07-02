@@ -3,8 +3,8 @@ import { heroimg } from "../assets";
 const hero = () => (
   <section className="bg-secondary pt-24">
     <div className=" flex flex-col md:px-[35rem]">
-      <h1 className="font-poppins font-bold text-[52px] text-primary leading-[4rem] text-center md:text-start">
-        Empowering Clients with Enduring Value : Structura Design Co's
+      <h1 className="font-poppins font-bold text-[32px] text-primary px-2 text-center md:text-start md:text-[52px] md:px-0">
+        Empowering Clients with Enduring Value: Structura Design Co's
         Transformative Approach to Buildings and Social Infrastructure
       </h1>
       <div className="flex justify-center md:justify-start">
