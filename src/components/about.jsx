@@ -8,7 +8,7 @@ const about = () => (
         Our mission
       </p>
       <div className="flex flex-col justify-center xl:justify-start">
-        <p className="font-poppins font-bold text-[40px] text-center xl:ms-[10rem] xl:w-[70%] xl:text-start">
+        <p className="font-poppins font-bold text-[32px] text-center xl:ms-[10rem] xl:w-[70%] xl:text-start md:text-[40px]">
           Our commitment is to ensure the consistent delivery of housing and
           apartments for our valued clients through development endeavors.
         </p>

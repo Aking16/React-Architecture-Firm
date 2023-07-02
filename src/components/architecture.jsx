@@ -8,7 +8,7 @@ const about = () => (
         Investments
       </p>
       <div className="flex flex-col justify-center xl:justify-start">
-        <p className="font-poppins font-bold text-[40px] text-center xl:ms-[10rem] xl:w-[70%] xl:text-start">
+        <p className="font-poppins font-bold text-[32px] text-center xl:ms-[10rem] xl:w-[70%] xl:text-start md:text-[40px]">
           From start to finish, our meticulous project management minimizes risk
           and assures customers' peace of mind. We oversee each step, ensuring
           successful completion.

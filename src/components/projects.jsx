@@ -16,7 +16,7 @@ const projects = () => {
         <p className="font-poppins font-semibold text-[15px]">
           Current Projects
         </p>
-        <h2 className="font-poppins font-bold text-[60px] text-center xl:text-start">
+        <h2 className="font-poppins font-bold text-[32px] text-center xl:text-start md:text-[60px]">
           Explore some of our <br className="sm:block hidden" /> current
           projects
         </h2>

@@ -7,7 +7,7 @@ const about = () => (
       <p className="font-semibold font-poppins text-[18px] text-center lg:text-start">
         Our difference
       </p>
-      <p className="font-poppins font-bold text-[40px] text-center lg:ms-[10rem] lg:w-[50%] lg:text-start">
+      <p className="font-poppins font-bold text-[32px] text-center lg:ms-[10rem] lg:w-[50%] lg:text-start md:text-[40px]">
         Disciplined. Controlled. Returns.
       </p>
       <div className="flex flex-col">
